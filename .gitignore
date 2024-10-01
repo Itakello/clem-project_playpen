@@ -10,3 +10,7 @@ output
 wandb
 
 .ipynb_checkpoints
+
+# Snellius required files
+job_script.sh
+output.txt
